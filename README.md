@@ -1,5 +1,5 @@
-# Kanban_Flow_Infosys_Internship_Oct2024
-Simple Kanban Board for Task Management. Create a Kanban board for individual and team task management, allowing users to organize members into teams and manage tasks in different stages (To Do, In Progress, Review, Done) and visualize workflow.
+# MyKanban
+Kanban Board for Task Management with Mental Health AI Insights. Created a Kanban board for individual and team task management, allowing users to organize members into teams and manage tasks in different stages (To Do, In Progress, Review, Done) and visualize workflow.
 
 # Table of Contents
 - [Introduction]
@@ -10,7 +10,7 @@ Simple Kanban Board for Task Management. Create a Kanban board for individual an
 - [Additional Information]
 
 # Introduction
-This project is a Kanban Flow application split into backend(MyKanban folder name) and frontend sections. The backend is developed using Spring Boot, while the frontend is built using Angular.
+This project is a MyKanban split into backend and frontend sections. The backend is developed using Spring Boot, while the frontend is built using Angular.
 
 # Prerequisites
 Before you begin, ensure you have the following installed on your local machine:
@@ -23,9 +23,9 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the Repository**:
    
-    git clone https://github.com/SpringBoardMentor115/Kanban_Flow_Infosys_Internship_Oct2024.git
+    git clone https://github.com/SuryanshT01/MyKanban
 
-    cd kanban-flow/MyKanban
+    cd MyKanban
     
 
 2. **Configure Database**:
